@@ -1,0 +1,16 @@
+{
+  "name": "whatsapp-stable-light-bot",
+  "version": "1.0.0",
+  "description": "A lightweight and stable WhatsApp AI Chat Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "pino": "^8.10.0",
+    "qrcode": "^1.5.3"
+  }
+}
